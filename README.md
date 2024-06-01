@@ -1,3 +1,6 @@
+Risk Assessment for Magellanic and Rockhopper penguins at Isla de los Estados
+Article link  and entire dataset to be uploaded as soon as article is available on line. 
+
 1- CodeR : this file contains the entire R code: 
   - data cleaning and formatting 
   - rasters convertion and preparation
@@ -16,3 +19,5 @@
   - Maritime traffic in December 2014
   - SSTA in December 2014
   - SST in December 2014 
+
+Please contact camille.santaniello@gmail.com for further information. 
