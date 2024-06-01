@@ -1,7 +1,7 @@
 Risk Assessment for Magellanic and Rockhopper penguins at Isla de los Estados. 
 Article link  and entire dataset to be uploaded as soon as article is available on line. 
 
-1- CodeR : this file contains the entire R code: 
+1- CodeR : this file contains the entire R script: 
   - data cleaning and formatting 
   - rasters convertion and preparation
   - extraction of the rasters values for each penguin occurrence
@@ -12,9 +12,9 @@ Article link  and entire dataset to be uploaded as soon as article is available 
   - Spatial analysis, including gls models and post-hoc tests
 
 2- RawData: 
-  - One example file for Magellanic penguin in 2014
+  - One example file for one individual Magellanic penguin in 2014
 
-3- Rasters: (Chl-a concentration could not be uploaded here)
+3- Rasters: (Chl-a concentration raster could not be uploaded here)
   - fisheries activity in December 2014
   - Maritime traffic in December 2014
   - SSTA in December 2014
