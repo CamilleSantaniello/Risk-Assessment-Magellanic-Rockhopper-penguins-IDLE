@@ -1,8 +1,13 @@
+#-------------------------------------------------------------------------------------------------------------------
+##For any questions regarding the following script, please contact corresponding author Camille Santaniello
+# camille.santaniello@gmail.com
+#---------------------------------------------------------------------------------------------------------------------
+
 
 ## Risk Assessment for Magellanic and Southern Rockhopper penguins from Isla de los Estados
 
-# setwd("C:/Users/..../Data")
 
+# setwd("C:/Users/..../Data")
 #--------------------------------------------------------------------------------------------------------------
 #1) Format the data and remove at-sea coordinates here for Magellanic 2014, individual "232G_puesta1" 
 library(dplyr)    
