@@ -1,5 +1,5 @@
-Risk Assessment for Magellanic and Rockhopper penguins at Isla de los Estados. 
-Article link  and entire dataset to be uploaded as soon as article is available on line. 
+Risk Assessment for Magellanic and Rockhopper penguins from Isla de los Estados. 
+Article link and entire dataset to be uploaded as soon as article is available on line. 
 
 1- CodeR : this file contains the entire R script: 
   - data cleaning and formatting 
