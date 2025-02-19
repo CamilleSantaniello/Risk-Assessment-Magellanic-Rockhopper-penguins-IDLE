@@ -290,7 +290,7 @@ for (interaction_type in interaction_types) {
       geom_tile(aes(x = long_center, y = lat_center, fill = !!rlang::sym(interaction_type)), width = 0.05, height = 0.05) +
       geom_sf(data = world, fill = "grey20", color = NA) +
       coord_sf(xlim = c(-66.5, -62.5), ylim = c(-56, -54), expand = FALSE) +
-      scale_fill_gradientn(colours=inferno(100),name = "Exposure score", limits = c(global_min, global_max)) +  # Spécifier les limites de l'échelle de couleur
+      scale_fill_gradientn(colours=inferno(100),name = "Exposure score", limits = c(global_min, global_max)) +  
       #labs(title = title, x = NULL, y = NULL) +
       theme_void() +
       theme(plot.background = element_rect(fill = NA, color = NA),
